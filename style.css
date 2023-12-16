@@ -35,13 +35,18 @@ body{
     justify-content: center;
 }
 
-.screen{
+#screen{
     width:90%;
     height:80%;
     text-align:left;
     background-color:white;
     box-shadow: 3px 3px 6px rgba(0,0,0,.4);
     border-radius: 10px;
+    color: black;
+    font-size: larger;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
 }
 
